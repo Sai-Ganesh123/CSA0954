@@ -1,0 +1,20 @@
+import java.util.Scanner;
+class roi{
+public static void main(string []args){
+intc;
+Scanner sc=new Scanner(System.in);
+System.out.print("Enter the amount");
+int a=sc.next.Int();
+System.out.print("Enter name of the Bank");
+String b=sc.next.Line();
+if(b=="sbi"){
+c=
+
+}
+
+
+
+
+}
+
+}
